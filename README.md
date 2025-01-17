@@ -3,6 +3,9 @@
 Une application de tableau de bord moderne et interactive construite avec React.js.  
 Ce projet est conçu pour fournir des visualisations de données dynamiques et des informations utiles à l'aide de graphiques.
 
+## Lien de Preview
+[Voir la démo en ligne]([https://dashboard-1-eight-theta.vercel.app/])
+
 ## Fonctionnalités
 - **Responsive Design** : Optimisé pour les écrans de bureau et mobiles.
 - **Visualisation des données** : Graphiques interactifs et dynamiques créés avec Chart.js.
@@ -38,9 +41,6 @@ Assurez-vous d'avoir les éléments suivants installés :
    ```bash
    npm start
    ```
-
-## Lien de Preview
-[Voir la démo en ligne](https://ton-utilisateur.vercel.app)
 
 ## Structure du Projet
 - **`src/components/`** : Contient les composants React utilisés pour construire l'application.
