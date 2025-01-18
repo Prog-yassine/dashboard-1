@@ -18,7 +18,7 @@ Ce projet est conçu pour fournir des visualisations de données dynamiques et d
 ## Aperçu du Projet
 
 ### Image 1 : Page principale
-![Page principale](./assets/dashboard-main.png)
+![Page principale](./assets/video.mp4)
 
 ## Prérequis
 Assurez-vous d'avoir les éléments suivants installés :
